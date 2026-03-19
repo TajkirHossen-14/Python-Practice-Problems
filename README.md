@@ -30,7 +30,7 @@ Beginner Python practice – basics, data types, and data structures.
 
 ## 🛠️ How to Run
 
-1. Clone the repository:
+1. Clone the Repository :
    ```bash
    git clone https://github.com/your-username/python-practice-problems.git
    ```
