@@ -8,8 +8,7 @@ Beginner Python practice – basics, data types and data structures.
 
 | File | Topics Covered |
 |------|---------------|
-| `Python_Practice_Problems.ipynb` | Print, Comments, Variables & Data Types, Strings, Operations, User Input,  
-Control Flow, Loops, Lists, Functions |
+| `Python_Practice_Problems.ipynb` | Print, Comments, Variables & Data Types, Strings, Operations, User Input, Control Flow, Loops, Lists, Functions |
 | `Python_Practice_Problems_2.ipynb` | Data Structures – Tuples, Dictionaries |
 
 ---
