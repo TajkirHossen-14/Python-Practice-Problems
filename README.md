@@ -40,18 +40,18 @@ Beginner Python practice – basics, data types, and data structures.
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you'd like to improve or add new practice problems:
+Contributions are welcome! If you'd like to improve or add new practice problems :
 
 1. Fork the repository
-2. Create a new branch:
+2. Create a new branch :
    ```bash
    git checkout -b feature/new-problems
    ```
-3. Commit your changes:
+3. Commit your changes :
    ```bash
    git commit -m "Add new practice problems"
    ```
-4. Push to the branch:
+4. Push to the branch :
    ```bash
    git push origin feature/new-problems
    ```
