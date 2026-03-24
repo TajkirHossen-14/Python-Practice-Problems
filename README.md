@@ -25,6 +25,7 @@ Beginner Python practice – basics, data types and data structures.
 - ✅ Functions
 - ✅ Tuples
 - ✅ Dictionaries
+- ✅ Sets 
 
 ---
 
