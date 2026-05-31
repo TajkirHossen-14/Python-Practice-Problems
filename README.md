@@ -3,7 +3,10 @@
   <img src="Banner/PF Banner.png" alt="Python Fundamentals Banner" width="100%">
 </p>
 
-–·–·–
+<br>
+
+This repository contains beginner-friendly Jupyter notebooks covering the core fundamentals of Python programming.
+Each notebook is filled with practice problems designed to build a strong foundation – from basic syntax and control flow to functions and essential data structures.
 
 </div>
 
