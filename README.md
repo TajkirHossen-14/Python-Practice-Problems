@@ -41,7 +41,7 @@ Each notebook is filled with practice problems designed to build a strong founda
 
 1. Clone the Repository :
    ```bash
-   git clone https://github.com/your-username/python-practice-problems.git
+   git clone https://github.com/TajkirHossen-14/Python_Fundamentals.git
    ```
 2. Open with Jupyter Notebook or [Google Colab](https://colab.research.google.com/)
 
