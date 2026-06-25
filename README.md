@@ -23,17 +23,17 @@ Each notebook is filled with practice problems designed to build a strong founda
 
 ## 📚 Topics
 
-- ✅ Print & Comments
-- ✅ Variables & Data Types
-- ✅ Strings & Operations
-- ✅ User Input
-- ✅ Control Flow (if/else)
-- ✅ Loops (for, while)
-- ✅ Lists
-- ✅ Functions
-- ✅ Tuples
-- ✅ Dictionaries
-- ✅ Sets 
+- 📝 Print & Comments
+- 📝 Variables & Data Types
+- 📝 Strings & Operations
+- 📝 User Input
+- 📝 Control Flow (if/else)
+- 📝 Loops (for, while)
+- 📝 Lists
+- 📝 Functions
+- 📝 Tuples
+- 📝 Dictionaries
+- 📝 Sets 
 
 ---
 
