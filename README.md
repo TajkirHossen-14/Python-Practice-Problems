@@ -3,8 +3,6 @@
   <img src="Banner/PF Banner.png" alt="Python Fundamentals Banner" width="100%">
 </p>
 
-<br>
-
 # Python Fundamentals
 
 This repository contains beginner-friendly Jupyter notebooks covering the core fundamentals of Python programming.
