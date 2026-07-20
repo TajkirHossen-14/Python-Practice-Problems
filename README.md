@@ -5,6 +5,8 @@
 
 <br>
 
+# Python Fundamentals
+
 This repository contains beginner-friendly Jupyter notebooks covering the core fundamentals of Python programming.
 Each notebook is filled with practice problems designed to build a strong foundation – from basic syntax and control flow to functions and essential data structures.
 
