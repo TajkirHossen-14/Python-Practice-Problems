@@ -47,7 +47,7 @@ Each notebook is filled with practice problems designed to build a strong founda
 
 ---
 
-## 🤝 Contributing
+## 🤝🏼 Contributing
 
 Contributions are welcome! If you'd like to improve or add new practice problems :
 
